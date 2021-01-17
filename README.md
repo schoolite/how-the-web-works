@@ -39,6 +39,6 @@ Static/dynamic IP Address
 A website is a collection of publicly accessible, interconnected web pages. Websites can be created and maintained by an individual, group, business or organization to serve a variety of purposes. Together, all publicly accessible websites constitute the World Wide Web. 
 Websites come in a nearly endless variety, including educational sites, news sites, porn sites, forums, social media sites, e-commerce sites, and so on. The pages within a website are usually a mix of text and other media. That said, there are no rules dictating the form of a website.
 
-##Domain Name 
+## Domain Name 
 A domain name is your website name. A domain name is the address where Internet users can access your website. A domain name is used for finding and identifying computers on the Internet. Computers use IP addresses, which are a series of numbers. However, it is difficult for humans to remember strings of numbers. Because of this, domain names were developed and used to identify entities on the Internet rather than using IP addresses. Domain name can also be the nickname for an IP Address.
 Note: No two websites can have the same domain name. 
